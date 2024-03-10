@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Vasyl
 
 Skills:
-* HTML, CSS
+* ༼ つ ◕_◕ ༽つ HTML, CSS
 * 🔀 ASP NET(MVC)
-* C#
-* MySQL, SQLite
-* Python
+* 🤖 C#
+* 💿 MySQL, SQLite
+* 🐍 Python
