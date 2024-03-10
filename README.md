@@ -2,7 +2,7 @@
 
 Skills:
 * HTML, CSS
-* > ASP.NET(MVC)
+* 🔀 ASP NET(MVC)
 * C#
 * MySQL, SQLite
 * Python
